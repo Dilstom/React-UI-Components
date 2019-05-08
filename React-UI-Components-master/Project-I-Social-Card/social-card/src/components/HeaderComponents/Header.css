@@ -1,1 +1,8 @@
 /* All styles for your header Components live here */
+.flexDiv {
+ display: flex;
+}
+.title {
+ font-size: bold;
+ margin-right: 2rem;
+}
